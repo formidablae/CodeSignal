@@ -1,4 +1,4 @@
-mainimport numpy
+import numpy
 def newRoadSystem(roadRegister):
     npRoadRegister = numpy.array(roadRegister)
     for i in range(len(roadRegister)):
